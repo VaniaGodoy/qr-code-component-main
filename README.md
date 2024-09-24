@@ -10,9 +10,6 @@ Esta é a minha solução para o desafio do componente de código QR no [Fronten
 - [Meu Processo](#meu-processo)
 - [Construído Com](#construído-com)
 - [O Que Eu Aprendi](#o-que-eu-aprendi)
-- [Desenvolvimento Contínuo](#desenvolvimento-contínuo)
-- [Recursos Úteis](#recursos-úteis)
-- [Autor](#autor)
 
 ## Desafio
 
